@@ -1,0 +1,21 @@
+.menu-box{
+    width: 100vw;
+    height: 40vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.menu-box ul li{
+    list-style: none;
+    margin-bottom: 20px;
+}
+.menu-box ul li a{
+    text-decoration: none;
+    color: #231F1E;  
+}
+.menu-box ul li i{
+    margin-left: 15px;
+    cursor: pointer;
+}
